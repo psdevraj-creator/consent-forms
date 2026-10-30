@@ -135,7 +135,9 @@ Five independent checks, because each catches a different kind of error.
 | G coverage | `verify_coverage.py` | no printed words are missing from the app |
 
 `verify_second_engine.py` renders the same pages with MuPDF as well as PDFium, so a PDF that
-only one engine can draw is caught before it reaches paper.
+only one engine can draw is caught before it reaches paper. `check_gstate.py` reports the
+`q`/`Q` balance of a page: a page whose drawing stack is unbalanced will lose everything drawn
+after the mistake in a strict reader.
 
 Current state: **520 forms, all checks green**, 18 600+ ticks.
 
@@ -166,6 +168,7 @@ line first: a stale cached `consent.html` is the usual cause.
 | `children-and-young-people-all-in-children-and-young-people` | an index of children's forms, not a single regimen |
 | `haematology-aml-aida-...` | a 143-page booklet rather than a one-regimen form |
 | Welsh, bilingual and Bengali interlinear versions | deliberately skipped; the English forms are the source |
+| Generic SACT and generic immunotherapy forms | two-column tables whose gutter falls left of the page midline; `page_rows(split_x=…)` exists, the gutter choice and import entries do not yet |
 
 Nineteen forms score below 90 % on word coverage. Each is an immunotherapy form whose
 "Other information" paragraphs are prose, not tickable items; every printed checkbox on them

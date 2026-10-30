@@ -218,6 +218,42 @@ is passed, so a fix to the drafter silently applies to *new* forms only. After c
 `draft_form_fields.py`, delete `forms/*.json` (the PDF cache under `forms/*.pdf` and
 `sources/forms/` is kept) before re-running, or the new code never touches old bundles.
 
+## Update — 30 Oct 2026, evening — why the ticks were invisible
+
+Two hospital PCs printed blank forms while a home PC printed ticks. Both engines available here
+(PDFium, MuPDF) drew every tick, so the fault was in how the PDF was written, not in the data.
+
+1. **Popping an empty graphics stack.** The overlay always emitted eight `Q` operators before
+   drawing, on the assumption that CRUK pages leave that many states open. Measured, most pages
+   leave none or one; the rest were being popped from an empty stack, which is invalid and which
+   a strict reader may answer by ignoring everything that follows. The count is now computed
+   per page (`open_states()`), so the proof's balance matches its source exactly.
+2. **Fill colour set, stroke colour not.** Ticks are stroked (`S`), so they take the stroke
+   colour; the code set only `g` (fill). A page that left a pale stroke colour active drew a
+   pale — effectively invisible — tick. Both `g` and `G` are now set to black.
+
+`tools/check_gstate.py` reports the `q`/`Q` balance of a page, and
+`tools/verify_second_engine.py` renders the same proof with MuPDF as well as PDFium: a PDF only
+one engine can draw is now caught here rather than in clinic.
+
+**Print interface.** One primary action — "Print both copies" — with a quiet link underneath,
+"Save a copy to this computer instead". When the blank-form option is on the button says so
+("Print blank copies — no ticks"). The notice after printing states what was printed ("19 side
+effects and 0 declarations ticked"), and the app refuses to open a PDF that came out smaller
+than the form itself, which is the signature of nothing having been drawn.
+
+**Build stamp.** The page footer shows `build YYYY-MM-DDx`. When two machines behave
+differently, compare that line first: a cached `consent.html` is the usual cause.
+
+**Generic (blank) forms — not included yet.** CRUK publishes two generic forms (Generic SACT,
+Generic checkpoint inhibitor immunotherapy) alongside the regimen library. They are a two-column
+*table* laid out at x ≈ 50 and x ≈ 220, both left of the page midline, so the column splitter
+merges the two columns into one nonsense row. `page_rows()` now takes `split_x`, and
+`extract_side_effects()`/`build_statements()` pass it through, so the groundwork is in; what is
+missing is choosing the gutter per page and adding the two entries to the import list
+(`SKIP_TITLE` no longer excludes them).
+
+
 **Verification harness** — four independent checks, because each catches a different fault:
 | Check | Tool | What it proves |
 |---|---|---|
