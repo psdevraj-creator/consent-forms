@@ -1,0 +1,17 @@
+[build]
+target = "index.html"
+dist = "site/consent"
+# Relative, not absolute: the page then works both when served from a site root and when
+# consent.html is opened straight from disk next to its `consent/` folder.
+public_url = "./consent/"
+# No subresource-integrity hashes: shared hosts (Hostinger/LiteSpeed, Cloudflare) rewrite
+# the CSS, which invalidates the hash and makes the browser silently drop the stylesheet.
+no_sri = true
+
+[serve]
+addresses = ["127.0.0.1"]
+port = 8080
+open = false
+# Autoreload needs a websocket, which the Content-Security-Policy blocks
+# (connect-src 'none'). Refresh the page manually instead of weakening the CSP.
+no_autoreload = true

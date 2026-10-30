@@ -1,0 +1,356 @@
+{
+  "version": "2026-10-26.1",
+  "generated_on": "2026-10-27",
+  "templates": [
+    {
+      "id": "sact-breast-ac-docetaxel",
+      "therapy": "sact",
+      "tumour_site": "Breast",
+      "regimen_name": "AC-Docetaxel",
+      "side_effects": [
+        "An increased risk of getting an infection from a drop in white blood cells – it is harder to fight infections and you can become very ill. If you have a severe infection this can be life-threatening. Contact your doctor or hospital straight away if your temperature goes over 37.5°C or over 38°C, depending on the advice given by your chemotherapy team, or you suddenly feel unwell (even with a normal temperature).",
+        "Anaemia (due to low red blood cells), bruising or bleeding (due to low platelets).",
+        "Feeling sick (nausea), being sick (vomiting), sore mouth and ulcers, taste changes, loss of appetite, tiredness and feeling weak (fatigue), generally feeling unwell, shivering, weight gain or weight loss, diarrhoea.",
+        "Thinning of the hair or hair loss, skin changes (rash, peeling or blisters on hands and feet, redness, dryness, change in colour, sensitivity to light), nail problems (change in colour, pain, separation of nail from the nail bed), can be severe.",
+        "Docetaxel may cause numbness or tingling in the hands and feet (may be temporary or permanent), fluid build-up in ankles and legs with weight gain, shortness of breath.",
+        "Docetaxel may cause muscle and joint aches and pain (may be severe).",
+        "Watery and sore eyes.",
+        "Docetaxel may cause an allergic reaction while it is being given. You will have medicines before to help prevent this.",
+        "Inflammation of the bladder (cystitis), blood in the urine.",
+        "Pain, redness, swelling, inflammation along the vein.",
+        "Bruising or bleeding (due to low platelets), changes in liver function tests (monitored with blood tests), red colour urine (for 1 or 2 days following Doxorubicin).",
+        "Thickening of the veins can occur in the skin following the line where the chemotherapy is injected. If you've had radiotherapy (either recently or in the past), the area that was treated may become red or sore, itchy skin.",
+        "Blood pressure changes (low or high), irregular heart rhythm, low heart rate.",
+        "Changes in the way the heart works affecting your heart muscle becoming thickened or stiff (cardiomyopathy). You may have tests (echocardiogram) before, during and after treatment to check how well your heart is working. Tell your Dr if you have symptoms of breathlessness, dizziness, swollen feet and ankles.",
+        "Constipation, tummy pain, gastrointestinal bleed with symptoms of black or bright red stools, vomiting blood feeling tired (rarely severe).",
+        "All intravenous drugs may leak out of the vein while it is being given (extravasation) and can damage the tissue around the vein. Tell the nurse straight away if you have any stinging, pain, redness or swelling around the vein. It's uncommon but important to deal with quickly.",
+        "Late effects include damage to the heart muscle and a very rare chance of a second cancer.",
+        "Occasionally hair loss may be permanent and nail loss is temporary.",
+        "Changes in lung tissues (scarring/inflammation) may cause breathlessness, cough, wheezing during treatment or developing in the future. Tell your doctor if you have symptoms at rest or with gentle activity.",
+        "Cyclophosphamide, in rare cases, may lead to chronic pulmonary interstitial fibrosis, resulting in progressive lung scarring and breathing problems.",
+        "Side effects with the anti-sickness medication may include: constipation, headaches, indigestion, difficulty sleeping and agitation.",
+        "Steroids can raise your blood sugar. This usually goes back to normal after treatment. If you have diabetes, it may lead to higher blood sugar levels.",
+        "Growth factors are prescribed following chemotherapy to prevent infections, you may experience bone pain, headaches, red and itchy skin around the injection site.",
+        "Before treatment you may have blood tests to check for viruses (Hepatitis B or C, HIV, or unusual infections). Treatment may weaken your natural defence (immune) system so infections like this may worsen or become active if you've had them before. You may have medicines to prevent or treat infection.",
+        "Changes in your memory, concentration or ability to think clearly. There can be many causes including your treatment, diagnosis, or both.",
+        "Cancer and its treatment can increase your risk of developing a blood clot (thrombosis), causing pain, redness and swelling in an arm or leg, breathlessness, chest pain. Tell your doctor straight away if you have any symptoms.",
+        "Some anti-cancer medicines can damage ovaries and sperm. This may lead to infertility and/or early menopause (hot flushes, vaginal dryness).",
+        "Some anti-cancer medicines may damage the development of a baby in the womb. It is important not to become pregnant or make someone else pregnant during treatment and for 12 months afterwards. Use effective contraception throughout. Speak to your doctor or nurse.",
+        "Complications of treatment can very occasionally be life-threatening and may result in death. The risks are different for every individual. Potentially life-threatening complications include those listed on this form, but other exceedingly rare side effects may also be life-threatening."
+      ],
+      "side_effect_groups": [
+        {
+          "heading": "Common side effects — more than 10 in every 100 people",
+          "items": [
+            "An increased risk of getting an infection from a drop in white blood cells – it is harder to fight infections and you can become very ill. If you have a severe infection this can be life-threatening. Contact your doctor or hospital straight away if your temperature goes over 37.5°C or over 38°C, depending on the advice given by your chemotherapy team, or you suddenly feel unwell (even with a normal temperature).",
+            "Anaemia (due to low red blood cells), bruising or bleeding (due to low platelets).",
+            "Feeling sick (nausea), being sick (vomiting), sore mouth and ulcers, taste changes, loss of appetite, tiredness and feeling weak (fatigue), generally feeling unwell, shivering, weight gain or weight loss, diarrhoea.",
+            "Thinning of the hair or hair loss, skin changes (rash, peeling or blisters on hands and feet, redness, dryness, change in colour, sensitivity to light), nail problems (change in colour, pain, separation of nail from the nail bed), can be severe.",
+            "Docetaxel may cause numbness or tingling in the hands and feet (may be temporary or permanent), fluid build-up in ankles and legs with weight gain, shortness of breath.",
+            "Docetaxel may cause muscle and joint aches and pain (may be severe).",
+            "Watery and sore eyes.",
+            "Docetaxel may cause an allergic reaction while it is being given. You will have medicines before to help prevent this.",
+            "Inflammation of the bladder (cystitis), blood in the urine.",
+            "Pain, redness, swelling, inflammation along the vein."
+          ]
+        },
+        {
+          "heading": "Occasional side effects — 1 to 10 in every 100 people",
+          "items": [
+            "Bruising or bleeding (due to low platelets), changes in liver function tests (monitored with blood tests), red colour urine (for 1 or 2 days following Doxorubicin).",
+            "Thickening of the veins can occur in the skin following the line where the chemotherapy is injected. If you've had radiotherapy (either recently or in the past), the area that was treated may become red or sore, itchy skin.",
+            "Blood pressure changes (low or high), irregular heart rhythm, low heart rate.",
+            "Changes in the way the heart works affecting your heart muscle becoming thickened or stiff (cardiomyopathy). You may have tests (echocardiogram) before, during and after treatment to check how well your heart is working. Tell your Dr if you have symptoms of breathlessness, dizziness, swollen feet and ankles.",
+            "Constipation, tummy pain, gastrointestinal bleed with symptoms of black or bright red stools, vomiting blood feeling tired (rarely severe)."
+          ]
+        },
+        {
+          "heading": "Other risks",
+          "items": [
+            "All intravenous drugs may leak out of the vein while it is being given (extravasation) and can damage the tissue around the vein. Tell the nurse straight away if you have any stinging, pain, redness or swelling around the vein. It's uncommon but important to deal with quickly.",
+            "Late effects include damage to the heart muscle and a very rare chance of a second cancer.",
+            "Occasionally hair loss may be permanent and nail loss is temporary.",
+            "Changes in lung tissues (scarring/inflammation) may cause breathlessness, cough, wheezing during treatment or developing in the future. Tell your doctor if you have symptoms at rest or with gentle activity.",
+            "Cyclophosphamide, in rare cases, may lead to chronic pulmonary interstitial fibrosis, resulting in progressive lung scarring and breathing problems.",
+            "Side effects with the anti-sickness medication may include: constipation, headaches, indigestion, difficulty sleeping and agitation.",
+            "Steroids can raise your blood sugar. This usually goes back to normal after treatment. If you have diabetes, it may lead to higher blood sugar levels.",
+            "Growth factors are prescribed following chemotherapy to prevent infections, you may experience bone pain, headaches, red and itchy skin around the injection site.",
+            "Before treatment you may have blood tests to check for viruses (Hepatitis B or C, HIV, or unusual infections). Treatment may weaken your natural defence (immune) system so infections like this may worsen or become active if you've had them before. You may have medicines to prevent or treat infection.",
+            "Changes in your memory, concentration or ability to think clearly. There can be many causes including your treatment, diagnosis, or both.",
+            "Cancer and its treatment can increase your risk of developing a blood clot (thrombosis), causing pain, redness and swelling in an arm or leg, breathlessness, chest pain. Tell your doctor straight away if you have any symptoms.",
+            "Some anti-cancer medicines can damage ovaries and sperm. This may lead to infertility and/or early menopause (hot flushes, vaginal dryness).",
+            "Some anti-cancer medicines may damage the development of a baby in the womb. It is important not to become pregnant or make someone else pregnant during treatment and for 12 months afterwards. Use effective contraception throughout. Speak to your doctor or nurse.",
+            "Complications of treatment can very occasionally be life-threatening and may result in death. The risks are different for every individual. Potentially life-threatening complications include those listed on this form, but other exceedingly rare side effects may also be life-threatening."
+          ]
+        }
+      ],
+      "source": {
+        "organisation": "Cancer Research UK",
+        "document_title": "Patient agreement to systemic anti-cancer therapy (SACT): AC - Docetaxel",
+        "source_url": "https://assets.ctfassets.net/u7vsjnoopqo5/62W3o9ycic1KtdYTMjn5X3/2ec28f3ed00a836f1f3de8baab4cc60f/breast_ac_-_docetaxel.pdf",
+        "version": "Version 4, issued June 2025, review due June 2025",
+        "sha256": "399ee9bf8cf03eb5dee873b2510cd19aea556d59c845a6ea5faf104e634f5a98",
+        "fetched_on": "2026-10-26"
+      }
+    },
+    {
+      "id": "sact-breast-ec",
+      "therapy": "sact",
+      "tumour_site": "Breast",
+      "regimen_name": "EC (Epirubicin-Cyclophosphamide)",
+      "side_effects": [
+        "An increased risk of getting an infection from a drop in white blood cells – it is harder to fight infections and you can become very ill. If you have a severe infection this can be life-threatening. Contact your doctor or hospital straight away if your temperature goes over 37.5°C or over 38°C, depending on the advice given by your chemotherapy team, or you suddenly feel unwell (even with a normal temperature).",
+        "Feeling sick (nausea) and being sick (vomiting), sore mouth and ulcers, loss of appetite, diarrhoea, tiredness and feeling weak (fatigue).",
+        "Thinning of the hair or hair loss, skin changes (change in skin colour, rash, itching, redness, dryness).",
+        "Anaemia (due to low red blood cells), bruising or bleeding (due to low platelets), changes in liver function tests (monitored).",
+        "Red or pink eye (conjunctivitis), inflammation of the eye's cornea (keratitis) causing symptoms of pain, redness, blurred vision, sensitivity to light.",
+        "Red colour urine (for 1 or 2 days after).",
+        "Inflammation of the bladder (cystitis), blood in the urine.",
+        "Dehydration, nail changes, chills.",
+        "Acid reflux, tummy pain, pain and burning sensation in the mouth.",
+        "Gastrointestinal bleed with symptoms of black or bright red stools, vomiting blood.",
+        "Irregular heart beat, changes in the way your heart works. You may have tests before, during and after treatment to check how well your heart is working. Contact your Dr or nurse if you have symptoms of breathlessness, dizziness, swollen feet and ankles.",
+        "Thickening of the veins can occur in the skin following the line where the chemotherapy is injected. If you've had radiotherapy (either recently or in the past), the area that was treated may become red or sore; redness around the injection site.",
+        "Epirubicin and Cyclophosphamide may leak out of the vein while it is being given (extravasation) and can damage the tissue around the vein. Tell the nurse straight away if you have any stinging, pain, redness or swelling around the vein. It's uncommon but important to deal with quickly.",
+        "Late effects include damage to the heart muscle, which can make it thick or stiff (called cardiomyopathy) and a very rare chance of a second cancer.",
+        "Cyclophosphamide, in rare cases, may lead to chronic pulmonary interstitial fibrosis, resulting in progressive lung scarring and breathing problems.",
+        "Steroids can raise your blood sugar. If you have diabetes, it may lead to higher blood sugar levels.",
+        "Side effects with the anti-sickness medication may include: constipation, headaches, indigestion, difficulty sleeping and agitation.",
+        "Before treatment you may have blood tests to check for viruses (Hepatitis B or C, HIV, or unusual infections). Treatment may weaken your natural defence (immune) system so infections like this may worsen or become active if you've had them before. You may have medicines to prevent or treat infection.",
+        "Changes in your memory, concentration or ability to think clearly due to many causes.",
+        "Cancer and its treatment can increase your risk of developing a blood clot (thrombosis), causing pain, redness and swelling in an arm or leg, breathlessness, chest pain. Tell your doctor straight away if you have any symptoms.",
+        "Some anti-cancer medicines can damage ovaries and sperm. This may lead to infertility and/or early menopause (hot flushes, vaginal dryness).",
+        "Some anti-cancer medicines may damage the development of a baby in the womb. It is important not to become pregnant or make someone else pregnant during treatment and for at least 12 months afterwards. Use effective contraception throughout. Speak to your doctor or nurse.",
+        "Complications of treatment can very occasionally be life-threatening and may result in death. The risks are different for every individual. Potentially life-threatening complications include those listed on this form, but other exceedingly rare side effects may also be life-threatening."
+      ],
+      "side_effect_groups": [
+        {
+          "heading": "Common side effects — more than 10 in every 100 people",
+          "items": [
+            "An increased risk of getting an infection from a drop in white blood cells – it is harder to fight infections and you can become very ill. If you have a severe infection this can be life-threatening. Contact your doctor or hospital straight away if your temperature goes over 37.5°C or over 38°C, depending on the advice given by your chemotherapy team, or you suddenly feel unwell (even with a normal temperature).",
+            "Feeling sick (nausea) and being sick (vomiting), sore mouth and ulcers, loss of appetite, diarrhoea, tiredness and feeling weak (fatigue).",
+            "Thinning of the hair or hair loss, skin changes (change in skin colour, rash, itching, redness, dryness).",
+            "Anaemia (due to low red blood cells), bruising or bleeding (due to low platelets), changes in liver function tests (monitored).",
+            "Red or pink eye (conjunctivitis), inflammation of the eye's cornea (keratitis) causing symptoms of pain, redness, blurred vision, sensitivity to light.",
+            "Red colour urine (for 1 or 2 days after).",
+            "Inflammation of the bladder (cystitis), blood in the urine."
+          ]
+        },
+        {
+          "heading": "Occasional side effects — 1 to 10 in every 100 people",
+          "items": [
+            "Dehydration, nail changes, chills.",
+            "Acid reflux, tummy pain, pain and burning sensation in the mouth.",
+            "Gastrointestinal bleed with symptoms of black or bright red stools, vomiting blood.",
+            "Irregular heart beat, changes in the way your heart works. You may have tests before, during and after treatment to check how well your heart is working. Contact your Dr or nurse if you have symptoms of breathlessness, dizziness, swollen feet and ankles.",
+            "Thickening of the veins can occur in the skin following the line where the chemotherapy is injected. If you've had radiotherapy (either recently or in the past), the area that was treated may become red or sore; redness around the injection site."
+          ]
+        },
+        {
+          "heading": "Other risks",
+          "items": [
+            "Epirubicin and Cyclophosphamide may leak out of the vein while it is being given (extravasation) and can damage the tissue around the vein. Tell the nurse straight away if you have any stinging, pain, redness or swelling around the vein. It's uncommon but important to deal with quickly.",
+            "Late effects include damage to the heart muscle, which can make it thick or stiff (called cardiomyopathy) and a very rare chance of a second cancer.",
+            "Cyclophosphamide, in rare cases, may lead to chronic pulmonary interstitial fibrosis, resulting in progressive lung scarring and breathing problems.",
+            "Steroids can raise your blood sugar. If you have diabetes, it may lead to higher blood sugar levels.",
+            "Side effects with the anti-sickness medication may include: constipation, headaches, indigestion, difficulty sleeping and agitation.",
+            "Before treatment you may have blood tests to check for viruses (Hepatitis B or C, HIV, or unusual infections). Treatment may weaken your natural defence (immune) system so infections like this may worsen or become active if you've had them before. You may have medicines to prevent or treat infection.",
+            "Changes in your memory, concentration or ability to think clearly due to many causes.",
+            "Cancer and its treatment can increase your risk of developing a blood clot (thrombosis), causing pain, redness and swelling in an arm or leg, breathlessness, chest pain. Tell your doctor straight away if you have any symptoms.",
+            "Some anti-cancer medicines can damage ovaries and sperm. This may lead to infertility and/or early menopause (hot flushes, vaginal dryness).",
+            "Some anti-cancer medicines may damage the development of a baby in the womb. It is important not to become pregnant or make someone else pregnant during treatment and for at least 12 months afterwards. Use effective contraception throughout. Speak to your doctor or nurse.",
+            "Complications of treatment can very occasionally be life-threatening and may result in death. The risks are different for every individual. Potentially life-threatening complications include those listed on this form, but other exceedingly rare side effects may also be life-threatening."
+          ]
+        }
+      ],
+      "source": {
+        "organisation": "Cancer Research UK",
+        "document_title": "Patient agreement to systemic anti-cancer therapy (SACT): EC (Epirubicin-Cyclophosphamide)",
+        "source_url": "https://assets.ctfassets.net/u7vsjnoopqo5/3dCqLAgVYYAJVkGWyWwG50/59a179956b0d46c2e3526a2df66634ab/breast_ec_epirubicin_-_cyclophosphamide.pdf",
+        "version": "Version 4, issued June 2025, review due June 2028",
+        "sha256": "8bad1d2993da5394415cf10b536e35d169752cc228de86536069dfb7f36443d4",
+        "fetched_on": "2026-10-26"
+      }
+    },
+    {
+      "id": "sact-cns-temozolomide",
+      "therapy": "sact",
+      "tumour_site": "Brain/CNS",
+      "regimen_name": "Temozolomide",
+      "side_effects": [
+        "Feeling sick (nausea), being sick (vomiting), diarrhoea, constipation, weight loss due to lack of appetite (anorexia).",
+        "Feeling tired and weak (fatigue).",
+        "Headache, fits (seizures).",
+        "Weakness on one side of the body, speech problems (difficulty speaking, writing and understanding).",
+        "Thinning of the hair or hair loss.",
+        "Skin rash (itching, dryness and colour changes less common).",
+        "An increased risk of getting an infection from a drop in white blood cells – it is harder to fight infections and you can become very ill.",
+        "If you have a severe infection this can be life-threatening. Contact your doctor or hospital straight away if your temperature goes over 37.5°C or over 38°C, depending on the advice given by your chemotherapy team, or you suddenly feel unwell (even with a normal temperature).",
+        "Anaemia (due to low red blood cells), prone to bleeding or bruising (due to low platelets).",
+        "Changes in liver function (monitored with blood tests). Liver failure is rare.",
+        "Sore mouth and ulcers, difficulty swallowing, indigestion, tummy pain.",
+        "Aches and pain in the muscles and joints, back pain, muscle weakness.",
+        "Build-up of fluid in arms and legs.",
+        "Allergic reactions, flu-like symptoms.",
+        "Shortness of breath, cough.",
+        "Vision changes, eye pain.",
+        "Changes in hearing including ringing in the ears, earache.",
+        "Feeling sad, anxious or confused, poor memory and concentration, feeling drowsy, shaking, difficulty sleeping.",
+        "High blood pressure, risk of bleeding.",
+        "Increased frequency in passing urine with incontinence.",
+        "Temozolomide and steroids can increase your blood sugar. If you have diabetes, monitor your blood sugar levels.",
+        "Temozolomide can increase your risk of developing a blood clot (thrombosis). A blood clot may cause pain, skin colour changes, swelling in a leg, or breathlessness and chest pain. Tell your doctor straight away if you have any of these symptoms.",
+        "Rarely, Temozolomide can increase the risk of developing a second cancer, years after treatment.",
+        "Side effects with the anti-sickness medication may include constipation, headaches, indigestion, difficulty sleeping and agitation.",
+        "Temozolomide can cause inflammation of your liver due to reactivation of hepatitis B virus. Symptoms can include yellowing of the eyes or skin (jaundice), loss of appetite, feeling or being sick, pain in the liver (right side of the belly), tiredness. Contact your nurse or doctor.",
+        "Before treatment, you may have blood tests to check for viruses such as Hepatitis B, Hepatitis C, HIV or more unusual infections. This treatment may weaken your natural defence (immune) system making you prone to infections, or existing infections could worsen or become active again if you've had them in the past. You may be given medicines to prevent or treat infection.",
+        "Changes in memory, concentration, ability to think clearly. There can be many causes, including your treatment, diagnosis or both.",
+        "Some anti-cancer medicines can damage ovaries and sperm leading to infertility/early menopause (hot flushes, vaginal dryness).",
+        "Some anti-cancer medicines may damage the development of a baby in the womb. It is important not to become pregnant or make someone pregnant during treatment and for 6 months afterwards. Use effective contraception throughout.",
+        "Complications of treatment can very occasionally be life-threatening and may result in death. The risks are different for every individual. Potentially life-threatening complications include those listed on this form, but other exceedingly rare side effects may also be life-threatening."
+      ],
+      "side_effect_groups": [
+        {
+          "heading": "Common side effects — more than 10 in every 100 people",
+          "items": [
+            "Feeling sick (nausea), being sick (vomiting), diarrhoea, constipation, weight loss due to lack of appetite (anorexia).",
+            "Feeling tired and weak (fatigue).",
+            "Headache, fits (seizures).",
+            "Weakness on one side of the body, speech problems (difficulty speaking, writing and understanding).",
+            "Thinning of the hair or hair loss.",
+            "Skin rash (itching, dryness and colour changes less common)."
+          ]
+        },
+        {
+          "heading": "Occasional side effects — 1 to 10 in every 100 people",
+          "items": [
+            "An increased risk of getting an infection from a drop in white blood cells – it is harder to fight infections and you can become very ill.",
+            "If you have a severe infection this can be life-threatening. Contact your doctor or hospital straight away if your temperature goes over 37.5°C or over 38°C, depending on the advice given by your chemotherapy team, or you suddenly feel unwell (even with a normal temperature).",
+            "Anaemia (due to low red blood cells), prone to bleeding or bruising (due to low platelets).",
+            "Changes in liver function (monitored with blood tests). Liver failure is rare.",
+            "Sore mouth and ulcers, difficulty swallowing, indigestion, tummy pain.",
+            "Aches and pain in the muscles and joints, back pain, muscle weakness.",
+            "Build-up of fluid in arms and legs.",
+            "Allergic reactions, flu-like symptoms.",
+            "Shortness of breath, cough.",
+            "Vision changes, eye pain.",
+            "Changes in hearing including ringing in the ears, earache.",
+            "Feeling sad, anxious or confused, poor memory and concentration, feeling drowsy, shaking, difficulty sleeping.",
+            "High blood pressure, risk of bleeding.",
+            "Increased frequency in passing urine with incontinence.",
+            "Temozolomide and steroids can increase your blood sugar. If you have diabetes, monitor your blood sugar levels.",
+            "Temozolomide can increase your risk of developing a blood clot (thrombosis). A blood clot may cause pain, skin colour changes, swelling in a leg, or breathlessness and chest pain. Tell your doctor straight away if you have any of these symptoms."
+          ]
+        },
+        {
+          "heading": "Other risks",
+          "items": [
+            "Rarely, Temozolomide can increase the risk of developing a second cancer, years after treatment.",
+            "Side effects with the anti-sickness medication may include constipation, headaches, indigestion, difficulty sleeping and agitation.",
+            "Temozolomide can cause inflammation of your liver due to reactivation of hepatitis B virus. Symptoms can include yellowing of the eyes or skin (jaundice), loss of appetite, feeling or being sick, pain in the liver (right side of the belly), tiredness. Contact your nurse or doctor.",
+            "Before treatment, you may have blood tests to check for viruses such as Hepatitis B, Hepatitis C, HIV or more unusual infections. This treatment may weaken your natural defence (immune) system making you prone to infections, or existing infections could worsen or become active again if you've had them in the past. You may be given medicines to prevent or treat infection.",
+            "Changes in memory, concentration, ability to think clearly. There can be many causes, including your treatment, diagnosis or both.",
+            "Some anti-cancer medicines can damage ovaries and sperm leading to infertility/early menopause (hot flushes, vaginal dryness).",
+            "Some anti-cancer medicines may damage the development of a baby in the womb. It is important not to become pregnant or make someone pregnant during treatment and for 6 months afterwards. Use effective contraception throughout.",
+            "Complications of treatment can very occasionally be life-threatening and may result in death. The risks are different for every individual. Potentially life-threatening complications include those listed on this form, but other exceedingly rare side effects may also be life-threatening."
+          ]
+        }
+      ],
+      "source": {
+        "organisation": "Cancer Research UK",
+        "document_title": "Patient agreement to systemic anti-cancer therapy (SACT): Temozolomide",
+        "source_url": "https://assets.ctfassets.net/u7vsjnoopqo5/3yWgPLTZ2ntEw0HNmUEOT1/a9664573e515da8af14831414298b0d5/Brain_Temozolomide.pdf",
+        "version": "Version 3, issued October 2026, review due October 2029",
+        "sha256": "11802b7732d3dc14cee83d36022857cf4d8143a23f63a6468aa1f59da58cf9e6",
+        "fetched_on": "2026-10-26"
+      }
+    },
+    {
+      "id": "sact-prostate-docetaxel",
+      "therapy": "sact",
+      "tumour_site": "Urology-Prostate",
+      "regimen_name": "Docetaxel with Prednisolone",
+      "side_effects": [
+        "An increased risk of getting an infection from a drop in white blood cells – it is harder to fight infections and you can become very ill. If you have a severe infection this can be life-threatening. Contact your doctor or hospital straight away if your temperature goes over 37.5°C or over 38°C, depending on the advice given by your chemotherapy team, or you suddenly feel unwell (even with a normal temperature).",
+        "Feeling sick (nausea), being sick (vomiting), sore mouth and ulcers, reduced appetite, taste changes, weight loss, diarrhoea, tummy pain, constipation, indigestion, passing wind, tiredness and feeling weak (fatigue).",
+        "Thinning of the hair or hair loss.",
+        "Nail changes (change in colour, pain, separation of nail from the nail bed).",
+        "Numbness or tingling in the hands and feet (temporary or permanent).",
+        "Muscle and joint aches and pain (may be severe).",
+        "Fluid build-up in ankles and legs with weight gain, shortness of breath, cough.",
+        "Difficulty sleeping, headache.",
+        "Anaemia (due to low red blood cells).",
+        "Skin rash with change in colour, peeling or scaling, dry mouth.",
+        "Watery and sore eyes, blurred vision.",
+        "Bruising or bleeding (due to low platelets), nose bleed, electrolyte changes (low potassium, calcium and phosphate levels) – monitored with blood tests.",
+        "Low blood pressure, changes in how well the heart works with symptoms of fluid build-up and shortness of breath.",
+        "Docetaxel may cause an allergic reaction while being given. You will have medicines before to help prevent this.",
+        "Pain, colour changes, swelling, inflammation along the vein.",
+        "Docetaxel may leak outside of the vein and damage the tissue around. Tell the nurse straight away if you have any stinging, pain, skin colour changes or swelling around the vein as, although uncommon, it's important that this is dealt with quickly.",
+        "Prednisolone and other steroids may cause: tummy irritation, heartburn, increased appetite, weight gain, behaviour changes (mood swings, difficulty sleeping, anxiety, irritability), sometimes vision changes, increased risk of osteoporosis leading to fractures, raised blood sugar levels (which usually go back to normal after treatment, but may need management).",
+        "Other effects of steroids include a condition called Cushing's syndrome (acne, puffiness of the face, dark marks on the skin).",
+        "Lung changes (inflammation or scarring) causing a cough, chest pain or breathlessness during treatment or in the future. Tell your doctor if you have symptoms at rest or with gentle activity.",
+        "Side effects with anti-sickness medication include constipation, headaches, indigestion, difficulty sleeping and agitation.",
+        "Growth factors may be prescribed following Docetaxel to prevent infections, you may experience bone pain, headaches, itchy skin around the injection site.",
+        "This treatment contains trace amounts of alcohol.",
+        "Before treatment, you may have blood tests to check for viruses such as Hepatitis B, Hepatitis C, HIV or more unusual infections. This treatment may weaken your natural defence (immune) system making you prone to infections, or, existing infections could worsen or become active again if you've had them in the past. You may be given medicines to prevent or treat infection.",
+        "Changes in memory, concentration, ability to think clearly. There can be many causes, including your treatment, diagnosis or both.",
+        "Some anti-cancer medicines can damage sperm. This may lead to infertility in men.",
+        "Some anti-cancer medicines may damage the development of a baby in the womb. It is important not to make someone pregnant during treatment and for 4 months after. It is important to use effective contraception throughout (barrier methods as well as hormonal contraceptives). Speak to your doctor or nurse.",
+        "Complications of treatment can very occasionally be life-threatening and may result in death. The risks are different for every individual. Potentially life-threatening complications include those listed on this form, but other exceedingly rare side effects may also be life-threatening."
+      ],
+      "side_effect_groups": [
+        {
+          "heading": "Common side effects — more than 10 in every 100 people",
+          "items": [
+            "An increased risk of getting an infection from a drop in white blood cells – it is harder to fight infections and you can become very ill. If you have a severe infection this can be life-threatening. Contact your doctor or hospital straight away if your temperature goes over 37.5°C or over 38°C, depending on the advice given by your chemotherapy team, or you suddenly feel unwell (even with a normal temperature).",
+            "Feeling sick (nausea), being sick (vomiting), sore mouth and ulcers, reduced appetite, taste changes, weight loss, diarrhoea, tummy pain, constipation, indigestion, passing wind, tiredness and feeling weak (fatigue).",
+            "Thinning of the hair or hair loss.",
+            "Nail changes (change in colour, pain, separation of nail from the nail bed).",
+            "Numbness or tingling in the hands and feet (temporary or permanent).",
+            "Muscle and joint aches and pain (may be severe).",
+            "Fluid build-up in ankles and legs with weight gain, shortness of breath, cough.",
+            "Difficulty sleeping, headache.",
+            "Anaemia (due to low red blood cells)."
+          ]
+        },
+        {
+          "heading": "Occasional side effects — 1 to 10 in every 100 people",
+          "items": [
+            "Skin rash with change in colour, peeling or scaling, dry mouth.",
+            "Watery and sore eyes, blurred vision.",
+            "Bruising or bleeding (due to low platelets), nose bleed, electrolyte changes (low potassium, calcium and phosphate levels) – monitored with blood tests.",
+            "Low blood pressure, changes in how well the heart works with symptoms of fluid build-up and shortness of breath.",
+            "Docetaxel may cause an allergic reaction while being given. You will have medicines before to help prevent this.",
+            "Pain, colour changes, swelling, inflammation along the vein."
+          ]
+        },
+        {
+          "heading": "Other risks",
+          "items": [
+            "Docetaxel may leak outside of the vein and damage the tissue around. Tell the nurse straight away if you have any stinging, pain, skin colour changes or swelling around the vein as, although uncommon, it's important that this is dealt with quickly.",
+            "Prednisolone and other steroids may cause: tummy irritation, heartburn, increased appetite, weight gain, behaviour changes (mood swings, difficulty sleeping, anxiety, irritability), sometimes vision changes, increased risk of osteoporosis leading to fractures, raised blood sugar levels (which usually go back to normal after treatment, but may need management).",
+            "Other effects of steroids include a condition called Cushing's syndrome (acne, puffiness of the face, dark marks on the skin).",
+            "Lung changes (inflammation or scarring) causing a cough, chest pain or breathlessness during treatment or in the future. Tell your doctor if you have symptoms at rest or with gentle activity.",
+            "Side effects with anti-sickness medication include constipation, headaches, indigestion, difficulty sleeping and agitation.",
+            "Growth factors may be prescribed following Docetaxel to prevent infections, you may experience bone pain, headaches, itchy skin around the injection site.",
+            "This treatment contains trace amounts of alcohol.",
+            "Before treatment, you may have blood tests to check for viruses such as Hepatitis B, Hepatitis C, HIV or more unusual infections. This treatment may weaken your natural defence (immune) system making you prone to infections, or, existing infections could worsen or become active again if you've had them in the past. You may be given medicines to prevent or treat infection.",
+            "Changes in memory, concentration, ability to think clearly. There can be many causes, including your treatment, diagnosis or both.",
+            "Some anti-cancer medicines can damage sperm. This may lead to infertility in men.",
+            "Some anti-cancer medicines may damage the development of a baby in the womb. It is important not to make someone pregnant during treatment and for 4 months after. It is important to use effective contraception throughout (barrier methods as well as hormonal contraceptives). Speak to your doctor or nurse.",
+            "Complications of treatment can very occasionally be life-threatening and may result in death. The risks are different for every individual. Potentially life-threatening complications include those listed on this form, but other exceedingly rare side effects may also be life-threatening."
+          ]
+        }
+      ],
+      "source": {
+        "organisation": "Cancer Research UK",
+        "document_title": "Patient agreement to systemic anti-cancer therapy (SACT): Docetaxel and Prednisolone",
+        "source_url": "https://assets.ctfassets.net/u7vsjnoopqo5/2TR2KqFJ8Ycx1WjWktl7bs/11a7292f01b6e89b538194d3d7f45318/Urology_Prostate_Docetaxel_and_Prednisolone.pdf",
+        "version": "Version 3, issued March 2026, review due March 2029",
+        "sha256": "c4917a2edc462b5afa57627121b132a177c97adefce0feb91c7c9769907c62b9",
+        "fetched_on": "2026-10-26"
+      }
+    }
+  ]
+}

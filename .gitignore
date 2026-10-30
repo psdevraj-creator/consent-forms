@@ -1,0 +1,26 @@
+# Rust / Trunk
+target/
+dist/
+build/
+
+# Build output
+site/
+
+# Generated: the CRUK forms themselves (copyright) and the download cache.
+# Regenerate with: python tools/import_all.py
+forms/
+sources/
+assets/form_fields/
+
+# Verification output
+reports/
+
+# Local scratch
+_backups/
+_archive/
+.playwright-mcp/
+.opencode/
+.opencode-backups/
+.ruff_cache/
+__pycache__/
+*.pyc
